@@ -17,7 +17,7 @@ A simple Python project that generates a QR code from a URL using the `qrcode` l
 
 1. Install the dependency:
    ```bash
-   pip install qrcode[pil]
+   pip install qrcode pillow
    ```
 2. Run the Python script:
    ```bash
